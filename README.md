@@ -3,7 +3,7 @@
 
 **`(Engineer /Developer /Designer)`**
 
-I’m an African/Kenyan junior software developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code.
+I’m an Kenyan junior software developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code.
 
 
 
