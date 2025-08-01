@@ -30,6 +30,9 @@ I’m a Kenyan junior software developer building my version of the digital worl
 
 
 <h2>👨‍💻 Projects done:</h2>
+  <ul>
+    <li> <a href="https://github.com/waruivince/waruivince/tree/weather-application?search=1">a simple weather application</a> </li>
+  </ul>
 
 
 
