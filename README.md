@@ -1,9 +1,9 @@
 
-# 🛠️syntax_clown
+# _chaposamo😝
 
-**`(Engineer /Developer /Designer)`**
+**`(Developer /Designer)`**
 
-I’m a Kenyan junior software developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code.
+I’m a Kenyan software developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code.
 
 
 
