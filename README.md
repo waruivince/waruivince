@@ -1,5 +1,5 @@
 
-# _chaposamo😝
+# _chaposamo
 
 **`(Developer /Designer)`**
 
