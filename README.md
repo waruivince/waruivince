@@ -31,13 +31,13 @@ just a dev
 #
 
 
-<h2>👨‍💻 Projects done:</h2>
+<!-- <h2>👨‍💻 Projects done:</h2>
 
 
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/vince-warui-8a5709286/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+ -->
 
 
 
